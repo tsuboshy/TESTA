@@ -42,3 +42,8 @@ body {
     font-size: 11px;
     padding: 12px 24px;
 }
+
+
+.sample-container a {
+    display: block;
+}
