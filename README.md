@@ -18,8 +18,6 @@
 - [画素を荒く_id: 2](https://tsuboshy.github.io/TESTA/1/sample_2.html)
 
 # 2
-
-# 1
 ## [現状](https://tsuboshy.github.io/TESTA/2/sample_12.html)
 
 ## -25%
