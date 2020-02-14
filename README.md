@@ -14,4 +14,4 @@
 
 ## -87%
 - [画素はそのまま_id: 11](https://tsuboshy.github.io/TESTA/1/sample_11.html)
-- [画素を荒く_id: 6](https://tsuboshy.github.io/TESTA/1/sample_6.html)
+- [画素を荒く_id: 2](https://tsuboshy.github.io/TESTA/1/sample_2.html)
