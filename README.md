@@ -20,7 +20,7 @@
 # 2
 
 # 1
-## [現状](https://tsuboshy.github.io/TESTA/1/sample_12.html)
+## [現状](https://tsuboshy.github.io/TESTA/2/sample_12.html)
 
 ## -25%
 - [画素はそのまま_id: 13](https://tsuboshy.github.io/TESTA/2/sample_13.html)
