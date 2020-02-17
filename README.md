@@ -38,20 +38,20 @@
 
 
 # 3
-## [現状](https://tsuboshy.github.io/TESTA/2/sample_21.html)
+## [現状](https://tsuboshy.github.io/TESTA/3/sample_21.html)
 
 ## -25%
-- [画素はそのまま_id: 22](https://tsuboshy.github.io/TESTA/2/sample_22.html)
-- [画素を荒く_id: 23](https://tsuboshy.github.io/TESTA/2/sample_23.html)
+- [画素はそのまま_id: 22](https://tsuboshy.github.io/TESTA/3/sample_22.html)
+- [画素を荒く_id: 23](https://tsuboshy.github.io/TESTA/3/sample_23.html)
 
 ## -50%
-- [画素はそのまま_id: 24](https://tsuboshy.github.io/TESTA/2/sample_24.html)
-- [画素を荒く_id: 25](https://tsuboshy.github.io/TESTA/2/sample_25.html)
+- [画素はそのまま_id: 24](https://tsuboshy.github.io/TESTA/3/sample_24.html)
+- [画素を荒く_id: 25](https://tsuboshy.github.io/TESTA/3/sample_25.html)
 
 ## -75%
-- [画素はそのまま_id: 26](https://tsuboshy.github.io/TESTA/2/sample_26.html)
-- [画素を荒く_id: 27](https://tsuboshy.github.io/TESTA/2/sample_27.html)
+- [画素はそのまま_id: 26](https://tsuboshy.github.io/TESTA/3/sample_26.html)
+- [画素を荒く_id: 27](https://tsuboshy.github.io/TESTA/3/sample_27.html)
 
 ## -87%
-- [画素はそのまま_id: 28](https://tsuboshy.github.io/TESTA/2/sample_28.html)
-- [画素を荒く_id: 29](https://tsuboshy.github.io/TESTA/2/sample_29.html)
+- [画素はそのまま_id: 28](https://tsuboshy.github.io/TESTA/3/sample_28.html)
+- [画素を荒く_id: 29](https://tsuboshy.github.io/TESTA/3/sample_29.html)
