@@ -55,3 +55,23 @@
 ## -87%
 - [画素はそのまま_id: 28](https://tsuboshy.github.io/TESTA/3/sample_28.html)
 - [画素を粗く_id: 29](https://tsuboshy.github.io/TESTA/3/sample_29.html)
+
+
+# 4
+## [現状](https://tsuboshy.github.io/TESTA/4/sample_30.html)
+
+## -25%
+- [画素はそのまま_id: 22](https://tsuboshy.github.io/TESTA/4/sample_31.html)
+- [画素を粗く_id: 23](https://tsuboshy.github.io/TESTA/4/sample_32.html)
+
+## -50%
+- [画素はそのまま_id: 24](https://tsuboshy.github.io/TESTA/4/sample_33.html)
+- [画素を粗く_id: 25](https://tsuboshy.github.io/TESTA/4/sample_34.html)
+
+## -75%
+- [画素はそのまま_id: 26](https://tsuboshy.github.io/TESTA/4/sample_35.html)
+- [画素を粗く_id: 27](https://tsuboshy.github.io/TESTA/4/sample_36.html)
+
+## -87%
+- [画素はそのまま_id: 28](https://tsuboshy.github.io/TESTA/4/sample_37.html)
+- [画素を粗く_id: 29](https://tsuboshy.github.io/TESTA/4/sample_38.html)
