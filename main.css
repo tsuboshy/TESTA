@@ -70,6 +70,6 @@ body {
     display: block;
 }
 
-.filler {
+div.filler {
     font-size: 1000px;
 }
